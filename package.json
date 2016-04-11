@@ -1,0 +1,31 @@
+{
+  "name": "ipld-cli",
+  "version": "1.0.0",
+  "description": "IPLD command line tool",
+  "main": "index.js",
+  "dependencies": {
+    "argparse": "^1.0.7",
+    "fs-blob-store": "^5.2.1",
+    "ipfs-blocks": "^0.1.1",
+    "ipfs-repo": "^0.6.1",
+    "ipfs-ipld": "github:ipfs/js-ipfs-ipld"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipfs/ipld-cli.git"
+  },
+  "keywords": [
+    "ipfs",
+    "ipld"
+  ],
+  "author": "Friedel Ziegelmayer <dignifiedquire@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ipfs/ipld-cli/issues"
+  },
+  "homepage": "https://github.com/ipfs/ipld-cli#readme"
+}
