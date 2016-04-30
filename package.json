@@ -12,7 +12,7 @@
     "fs-blob-store": "^5.2.1",
     "ipfs-blocks": "^0.2.2",
     "ipfs-ipld": "^1.0.0",
-    "ipfs-repo": "^0.6.1",
+    "ipfs-repo": "^0.7.3",
     "json-colorz": "^0.2.7",
     "prettyjson": "^1.1.3"
   },
