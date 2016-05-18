@@ -6,7 +6,7 @@ const path = require('path')
 const os = require('os')
 const fsb = require('fs-blob-store')
 const IPFSRepo = require('ipfs-repo')
-const BlockService = require('ipfs-blocks').BlockService
+const BlockService = require('ipfs-block-service')
 const IPLDService = require('ipfs-ipld/src').IPLDService
 
 const addCmd = require('./commands/add')
