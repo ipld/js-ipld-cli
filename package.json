@@ -11,7 +11,7 @@
     "argparse": "^1.0.7",
     "fs-blob-store": "^5.2.1",
     "ipfs-block-service": "^0.4.0",
-    "ipfs-ipld": "^1.0.1",
+    "ipfs-ipld": "^2.0.0",
     "ipfs-repo": "^0.8.0",
     "json-colorz": "^0.2.7",
     "prettyjson": "^1.1.3"
