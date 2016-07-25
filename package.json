@@ -30,7 +30,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ipfs/js-ipld-cli.git"
+    "url": "git+https://github.com/ipld/js-ipld-cli.git"
   },
   "keywords": [
     "ipfs",
@@ -39,7 +39,7 @@
   "author": "Friedel Ziegelmayer <dignifiedquire@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ipfs/js-ipld-cli/issues"
+    "url": "https://github.com/ipld/js-ipld-cli/issues"
   },
   "homepage": "https://github.com/ipfs/js-ipld-cli#readme",
   "jsnext:main": "src/index.js",
